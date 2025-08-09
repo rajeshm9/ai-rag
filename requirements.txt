@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain-core
+unstructured
+pypdf
+openpyxl
+requests
+langchain_openai
+langgraph
+# For JiraLoader dependencies
+jira

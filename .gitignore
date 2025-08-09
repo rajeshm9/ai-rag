@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Cache
+.cache/
+*.sqlite3
+
+# Local data
+*.local
+
+# Ignore HTML/Excel/PDF test files (optional)
+*.html
+*.xlsx
+*.pdf
