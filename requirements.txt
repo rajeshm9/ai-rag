@@ -9,3 +9,5 @@ langchain_openai
 langgraph
 # For JiraLoader dependencies
 jira
+smolagents
+ddgs
